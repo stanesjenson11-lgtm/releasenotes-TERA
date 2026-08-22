@@ -1,0 +1,9 @@
+{
+  "name": "releasenotestera",
+  "version": "1.0.0",
+  "description": "Turn a list of completed task names into a Regal Wealth Advisors release-notes Word document. Categorises into New Features, Improvements and Bug Fixes, expands each into a title, summary, Details bullets and a Benefit line with a screenshot placeholder, and stamps the version and date.",
+  "author": {
+    "name": "J Stanes Jenson",
+    "email": "stanesjenson11@gmail.com"
+  }
+}

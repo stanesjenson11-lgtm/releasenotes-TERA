@@ -1,0 +1,60 @@
+{
+  "version": "1.0.15",
+  "date": "07/15/2026",
+  "new_features": [
+    {
+      "title": "Expenses – New Screen",
+      "summary": "Introduced a redesigned Expenses screen with an improved layout and user experience.",
+      "details": [
+        "Designed and implemented a new Expenses screen.",
+        "Enhanced page structure and data organization.",
+        "Integrated with existing financial planning workflows."
+      ],
+      "benefit": "Provides a modern and intuitive experience for managing client expenses."
+    },
+    {
+      "title": "Retirement Analyzer – New Expense Categories",
+      "summary": "Expanded retirement planning by introducing additional expense categories.",
+      "details": [
+        "Added new expense categories within the Retirement Analyzer.",
+        "Updated retirement projections to incorporate the additional expense categories.",
+        "Improved expense breakdown for retirement planning."
+      ],
+      "benefit": "Provides more comprehensive retirement planning and improves financial analysis accuracy."
+    }
+  ],
+  "improvements": [
+    {
+      "title": "Net Worth – UI Enhancements",
+      "summary": "Improved the visual presentation of the Net Worth module.",
+      "details": [
+        "Refined layouts and UI components.",
+        "Improved spacing, alignment, and overall consistency.",
+        "Enhanced readability of financial information."
+      ],
+      "benefit": "Provides a cleaner and more professional financial analysis experience."
+    },
+    {
+      "title": "Income Tax Calculator – PDF Enhancements",
+      "summary": "Enhanced Income Tax PDF reports with updated financial information and visualizations.",
+      "details": [
+        "Added the latest calculation values to Income Tax PDF reports.",
+        "Enhanced charts and financial visualizations for improved presentation.",
+        "Improved report formatting and readability for client presentations."
+      ],
+      "benefit": "Provides clearer tax planning reports with improved visual representation of financial data."
+    }
+  ],
+  "bug_fixes": [
+    {
+      "title": "Roth Calculator – Filing Status Payload Fix",
+      "summary": "Resolved an issue affecting Filing Status data.",
+      "details": [
+        "Fixed Filing Status payload generation.",
+        "Ensured accurate payload values during calculations.",
+        "Improved calculation consistency."
+      ],
+      "benefit": "Ensures accurate Roth Conversion calculations."
+    }
+  ]
+}
